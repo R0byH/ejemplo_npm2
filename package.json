@@ -1,0 +1,22 @@
+{
+  "name": "cherbas",
+  "version": "1.0.1",
+  "description": "Nuevo ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejemplo"
+  ],
+  "author": "Cesar Herbas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jquery/jquery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jquery/jquery/issues"
+  },
+  "homepage": "https://github.com/jquery/jquery#readme"
+}
